@@ -1,4 +1,22 @@
-img{
-    width: 150px;
-    height: 150px;
+body{
+    background-color: pink;
 }
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10%;
+
+}
+
+.desafio{
+    color: royalblue;
+    text-align: center;
+}
+
+.lista{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
